@@ -1,0 +1,183 @@
+6_1
+Temps de résolution (s) :0.0063478946685791016
+Objective value: 12.0
+Solution optimale: 
+Arc: 1 -> 3
+Arc: 2 -> 5
+Arc: 3 -> 2
+
+20_1
+Temps de résolution (s) :16.205291032791138
+Objective value: 122.0
+Solution optimale: 
+Arc: 4 -> 13
+Arc: 5 -> 20
+Arc: 8 -> 5
+Arc: 13 -> 10
+Arc: 18 -> 4
+Arc: 19 -> 8
+Arc: 20 -> 18
+
+20_2
+Temps de résolution (s) :0.7237648963928223
+Objective value: 102.0
+Solution optimale: 
+Arc: 1 -> 12
+Arc: 12 -> 17
+Arc: 13 -> 20
+Arc: 14 -> 10
+Arc: 17 -> 18
+Arc: 18 -> 13
+Arc: 20 -> 14
+
+20_3
+Temps de résolution (s) :6.710532903671265
+Objective value: 106.0
+Solution optimale: 
+Arc: 1 -> 12
+Arc: 5 -> 15
+Arc: 12 -> 17
+Arc: 13 -> 14
+Arc: 14 -> 5
+Arc: 17 -> 18
+Arc: 18 -> 13
+
+30_1
+Temps de résolution (s) :13.706460952758789
+Objective value: 139.0
+Solution optimale: 
+Arc: 5 -> 21
+Arc: 8 -> 25
+Arc: 9 -> 13
+Arc: 12 -> 17
+Arc: 13 -> 14
+Arc: 14 -> 22
+Arc: 17 -> 28
+Arc: 19 -> 8
+Arc: 21 -> 29
+Arc: 22 -> 10
+Arc: 25 -> 5
+Arc: 28 -> 9
+Arc: 29 -> 12
+
+40_1
+Temps de résolution (s) :4.944519996643066
+Objective value: 112.0
+Solution optimale: 
+Arc: 3 -> 4
+Arc: 4 -> 9
+Arc: 7 -> 10
+Arc: 9 -> 28
+Arc: 10 -> 23
+Arc: 11 -> 32
+Arc: 22 -> 24
+Arc: 23 -> 11
+Arc: 24 -> 35
+Arc: 27 -> 7
+Arc: 28 -> 22
+Arc: 32 -> 3
+Arc: 35 -> 8
+
+50_1
+Temps de résolution (s) :59.615665912628174
+Objective value: 163.0
+Solution optimale: 
+Arc: 1 -> 29
+Arc: 2 -> 47
+Arc: 3 -> 27
+Arc: 9 -> 13
+Arc: 13 -> 1
+Arc: 17 -> 48
+Arc: 27 -> 9
+Arc: 29 -> 31
+Arc: 31 -> 40
+Arc: 32 -> 50
+Arc: 40 -> 32
+Arc: 47 -> 34
+Arc: 48 -> 3
+Arc: 49 -> 17
+Arc: 50 -> 2
+
+70_1
+Temps de résolution (s) :944.1976630687714
+Objective value: 436.0
+Solution optimale: 
+Arc: 1 -> 59
+Arc: 5 -> 42
+Arc: 7 -> 23
+Arc: 9 -> 66
+Arc: 10 -> 22
+Arc: 11 -> 5
+Arc: 13 -> 9
+Arc: 18 -> 37
+Arc: 20 -> 43
+Arc: 22 -> 7
+Arc: 36 -> 1
+Arc: 37 -> 20
+Arc: 41 -> 55
+Arc: 42 -> 52
+Arc: 43 -> 10
+Arc: 45 -> 11
+Arc: 47 -> 36
+Arc: 52 -> 13
+Arc: 55 -> 18
+Arc: 59 -> 45
+Arc: 66 -> 41
+
+80_1
+
+80_2
+
+100_1
+Temps de résolution (s) :3.4697461128234863
+Objective value: 438.0
+Solution optimale: 
+Arc: 1 -> 5
+Arc: 2 -> 45
+Arc: 3 -> 8
+Arc: 4 -> 39
+Arc: 5 -> 10
+Arc: 6 -> 44
+Arc: 8 -> 17
+Arc: 10 -> 3
+Arc: 11 -> 42
+Arc: 13 -> 47
+Arc: 15 -> 2
+Arc: 17 -> 36
+Arc: 21 -> 29
+Arc: 24 -> 6
+Arc: 25 -> 4
+Arc: 29 -> 80
+Arc: 32 -> 60
+Arc: 35 -> 71
+Arc: 36 -> 32
+Arc: 39 -> 82
+Arc: 42 -> 56
+Arc: 43 -> 61
+Arc: 44 -> 43
+Arc: 45 -> 25
+Arc: 47 -> 55
+Arc: 55 -> 65
+Arc: 56 -> 24
+Arc: 60 -> 11
+Arc: 61 -> 21
+Arc: 65 -> 35
+Arc: 71 -> 15
+Arc: 80 -> 13
+Arc: 81 -> 88
+Arc: 82 -> 87
+Arc: 85 -> 90
+Arc: 86 -> 81
+Arc: 87 -> 95
+Arc: 88 -> 92
+Arc: 89 -> 85
+Arc: 90 -> 86
+Arc: 91 -> 89
+Arc: 92 -> 93
+Arc: 93 -> 96
+Arc: 94 -> 91
+Arc: 95 -> 98
+Arc: 96 -> 97
+Arc: 97 -> 100
+Arc: 98 -> 94
+Arc: 100 -> 99
